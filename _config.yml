@@ -25,7 +25,7 @@ author: thorbenegberts
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://scrumba.gs'
+url: 'https://www.scrumba.gs'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Scrumbags/scrumbags.github.com/edit/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://scrumba.gs/images/'
+urlimg: 'https://www.scrumba.gs/images/'
 
 
 # Logo size is 600x80 pixels
