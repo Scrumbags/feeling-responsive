@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "scrumbags-logo-green.png"
+  image_fullwidth: "scrumbags-logo-website.png"
 widget1:
   title: "Manifest"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
