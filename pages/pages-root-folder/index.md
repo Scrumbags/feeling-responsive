@@ -9,17 +9,17 @@ header:
   image_fullwidth: "scrumbags-logo-website.png"
 widget1:
   title: "Manifest"
-  url: '/manifesto/'
+  url: 'about/'
   image: manifest-thumb.png
   text: 'Das Wissen und das Kollektiv von Erfahrungen, die sich hinter <em>agile</em> verbegen, wollen wir mit der Welt teilen. Erfahre im scrumbags Manifest welche Werte für uns dafür Zentral sind.'
 widget2:
   title: "Blog"
-  url: '/blog/'
+  url: 'blog/'
   image: blog-thumb.png
   text: 'In unserem Blog teilen wir Wissen und Erfahrungen zu Themen rund um agile, Lean und Beta-Codex. Klick dich mal durch und mit etwas Glück findest du ein Thema, das etwas in dir bewegt.'
 widget3:
   title: "Autoren"
-  url: '/authors/'
+  url: 'authors/'
   image: autoren-thumb.png
   text: 'Finde heraus wer wir sind! scrumba.gs wird mit Inhalten von mehreren Autoren gefüttert. Willst du auch ein scrumbag sein? Lass es uns <a href="http://www.google.com">hier</a> wissen.'
 #
