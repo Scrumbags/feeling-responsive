@@ -3,7 +3,7 @@
   side: left
 
 - title: About us
-  url: "/about/"
+  url: "about/"
   side: left
 
 #- title: Getting Started
@@ -64,16 +64,16 @@
 #     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
+  url: "blog/"
   side: left
   # dropdown:
   # - title: "Archive"
   #   url: "/blog/archive/"
 
 - title: "Search"
-  url: "/search/"
+  url: "search/"
   side: right
 
 - title: "Contact"
-  url: "/contact/"
+  url: "contact/"
   side: right
