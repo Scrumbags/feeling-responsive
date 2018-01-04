@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "scrumbags-logo-green.png"
+  image_fullwidth: "scrumbags-logo-website.png"
 widget1:
   title: "Manifest"
   url: '/manifesto/'
@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Informier mich wenn die scrumbags was neues haben ›
+  text: Informiere mich über Updates ›
   style: alert
 
 permalink: /index.html
