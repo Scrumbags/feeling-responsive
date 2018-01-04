@@ -9,17 +9,17 @@ header:
   image_fullwidth: "scrumbags-logo-green.png"
 widget1:
   title: "Manifest"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/manifesto/'
   image: manifest-thumb.png
   text: 'Das Wissen und das Kollektiv von Erfahrungen, die sich hinter <em>agile</em> verbegen, wollen wir mit der Welt teilen. Erfahre im scrumbags Manifest welche Werte für uns dafür Zentral sind.'
 widget2:
   title: "Blog"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/blog/'
   image: blog-thumb.png
   text: 'In unserem Blog teilen wir Wissen und Erfahrungen zu Themen rund um agile, Lean und Beta-Codex. Klick dich mal durch und mit etwas Glück findest du ein Thema, das etwas in dir bewegt.'
 widget3:
   title: "Autoren"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/authors/'
   image: autoren-thumb.png
   text: 'Finde heraus wer wir sind! scrumba.gs wird mit Inhalten von mehreren Autoren gefüttert. Willst du auch ein scrumbag sein? Lass es uns <a href="http://www.google.com">hier</a> wissen.'
 #
