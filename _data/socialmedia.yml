@@ -1,32 +1,28 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/Scrumbags
   class: icon-github
-  title: Code und mehr...
+  title: Website code und mehr...
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/channel/UCX8IDeRO8D0urJUckUSqObw
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Videos der Scrumbags auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/scrmbgs
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Die Scrumbags auf Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Facebook
+  url: https://www.facebook.com/Scrumbags-1997420780473408/
+  class: icon-facebook
+  title: "Die Facebook-Seite der Scrumbags"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
-
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+# TODO in arbeit bei thorben (seite ist in prüfung)
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
@@ -42,8 +38,3 @@
 #   url: http://www.pinterest.com/
 #   class: icon-pinterest
 #   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
