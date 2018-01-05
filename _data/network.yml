@@ -5,6 +5,11 @@
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
+- name: "Icons by Freepik (flaticon.com)"
+  url: "https://www.flaticon.com/authors/freepik"
+  class: "network-entypo"
+  title: "Icons by Freepik (flaticon.com)"
+
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
