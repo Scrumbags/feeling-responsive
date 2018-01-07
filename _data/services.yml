@@ -15,3 +15,7 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
+
+- name: "Impressum"
+  url: "/legal-notice"
+  title: "Impressum"
