@@ -25,6 +25,8 @@ Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies i
 
 Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
+Für die Übermittlung Ihrer Kontaktdaten verwenden wir formspree.io. Ihre Daten werden verschlüsselt übertragen und sind vorm Zugriff Unbefugter geschützt. Im übrigen gelten die Datenschutzbestimmmungen von formspree.io.
+
 ## Newsletterdaten
 
 Wenn Sie den auf der Webseite angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben sie nicht an Dritte weiter.
