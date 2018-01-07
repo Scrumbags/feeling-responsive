@@ -20,4 +20,6 @@
   url: "/legal-notice/"
   title: "Impressum"
 
-  title: "Impressum"
+- name: "Datenschutzerklärung"
+  url: "/data-privacy-statement/"
+  title: "Datenschutzerklärung"
