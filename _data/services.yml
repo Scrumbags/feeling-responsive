@@ -17,5 +17,7 @@
   title: "Sitemap for Google Webmaster Tools"
 
 - name: "Impressum"
-  url: "/legal-notice"
+  url: "/legal-notice/"
+  title: "Impressum"
+
   title: "Impressum"
