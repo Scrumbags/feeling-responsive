@@ -18,11 +18,10 @@
   class: icon-facebook
   title: "Die Facebook-Seite der Scrumbags"
 
-# TODO in arbeit bei thorben (seite ist in prüfung)
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+- name: Xing
+  url: https://www.xing.com/communities/groups/scrumbags-35b1-1101914?cce=em6148d2ff.%3AAA8MaNFcy6TW7OTkQMN7yfAB
+  class: icon-xing
+  title: Xing Gruppe
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
