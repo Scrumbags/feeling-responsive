@@ -9,9 +9,9 @@
 		<div class="row">
 			<div class="large-12 columns">
 				<ul class="side-nav">
-				{% for tag in site.tags limit:8 offset:1 %}
-			    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-			    <li id="#{{ tag_name | slugize }}"><a href="/{{ tag_name | slugize }}" name="{{ tag_name | slugize }}">{{ tag_name }}</a></li>
+				{% for category in site.categories %}
+			    {% capture category_name %}{{ category | first }}{% endcapture %}
+			    <li id="#{{ category_name | slugize }}"><a href="/{{ category_name | slugize }}" name="{{ category_name | slugize }}">{{ category_name }}</a></li>
 				{% endfor %}
 				</ul>
 			</div>
