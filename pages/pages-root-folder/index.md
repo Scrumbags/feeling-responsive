@@ -9,9 +9,9 @@ header:
   image_fullwidth: "scrumbags-logo-website.png"
 widget1:
   title: "Manifest"
-  url: '/about/'
+  url: '/manifesto/'
   image: manifest-thumb.png
-  text: 'Das Wissen und das Kollektiv von Erfahrungen, die sich hinter <em>agile</em> verbegen, wollen wir mit der Welt teilen. Erfahre im scrumbags Manifest welche Werte für uns dafür Zentral sind.'
+  text: 'Wir wollen Wissen und Erfahrungen rund um Agile, Scrum, Beta-Organisationen usw. mit euch teilen. Erfahre in unserem Manifest, wofür wir das hier machen und was dabei für uns zentral ist.'
 widget2:
   title: "Blog"
   url: '/blog/'
