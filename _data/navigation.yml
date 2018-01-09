@@ -74,6 +74,10 @@
   url: "/authors/"
   side: left
 
+- title: Vision
+  url: "/vision/"
+  side: left
+
 - title: "Suche"
   url: "/search/"
   side: right
