@@ -1,9 +1,8 @@
 ---
 layout: page
-subheadline: "Discussion"
 title: "Under Construction"
 author: thorbenegberts
-teaser: "Blub"
+teaser: "Unser Blog befindet sich im Aufbau!"
 header: no
 comments: true
 show_meta: true
@@ -11,4 +10,4 @@ categories:
   - news
 ---
 
-Das ist ein Test.
+Hallo! Unser Blog befindet sich im Aufbau. Schau doch demnächst mal wieder vorbei.
