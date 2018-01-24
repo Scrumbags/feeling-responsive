@@ -7,6 +7,8 @@ teaser: "History and changelog of Feeling Responsive Theme"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
+sitemap:
+  exclude: true
 ---
 2015-11-10 // Version 1.91
 :   I added a nasty hack to highlight the homepage in the topbar navigation. To do it, you have to add `homepage: true` to your homepage. The pages *404* and *search* are now excluded from the sitemap.
@@ -30,7 +32,7 @@ permalink: "/changelog/"
 :   Added the possibility of using [tawk.to][8] via front matter switch `tawkto: true` in front matter. Thank you [Juan Jose Amor Iglesias][9] for the suggestion.
 
 2015-05-04 // Version 1.2.1
-:   Added `meta_title` to `<head>`. Use it in frontmatter for SEO purposes. 
+:   Added `meta_title` to `<head>`. Use it in frontmatter for SEO purposes.
 
 2015-04-28 // Version 1.2
 :   Put some nice Schema.org-Meta-Data into the video-template for better SEO. If you want to know how to use the data, have a look into the front matter of the [video]({{ site.url }}/design/video/).

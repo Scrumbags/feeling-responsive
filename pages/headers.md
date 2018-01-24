@@ -6,6 +6,8 @@ teaser: "These are your options to style the header of each webpage individually
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/headers/"
+sitemap:
+  exclude: true
 ---
 <ul>
     {% for post in site.tags.header %}
