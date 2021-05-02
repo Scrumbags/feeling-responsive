@@ -8,4 +8,4 @@ header:
    image_fullwidth: "scrumbags-website-contact.png"
 ---
 
-Schicke deine Fragen, die du in unserem Podcast beantwortet haben möchtest – oder einfach nur spanndend findest –, an <a href="mailto:frage@scrumbags.de">frage@scrumbags.de</a>.
+Schicke deine Fragen, die du in unserem Podcast beantwortet haben möchtest oder einfach nur spanndend findest, an <a href="mailto:frage@scrumbags.de">frage@scrumbags.de</a>. Vielen Dank!
