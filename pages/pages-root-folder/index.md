@@ -7,21 +7,21 @@
 layout: frontpage
 header:
   image_fullwidth: "scrumbags-logo-website.png"
-#widget1:
-#  title: "Manifest"
-#  url: '/manifesto/'
-#  image: manifest-thumb.png
-#  text: 'Wir wollen Wissen und Erfahrungen rund um Agile, Lean, Beta-Codex usw. mit euch teilen. Erfahre in unserem Manifest, wofür wir das hier machen und was dabei für uns zentral ist.'
-#widget2:
-#  title: "Blog"
-#  url: '/blog/'
-#  image: blog-thumb.png
-#  text: 'Der Blog ist das Herz der Scrumbags. Klicke dich doch mal durch und schaue, was vielleicht nützlich für dich ist oder etwas in dir bewegt.'
-#widget3:
-#  title: "Autoren"
-#  url: '/authors/'
-#  image: autoren-thumb.png
-#  text: 'Finde heraus, wer wir sind! Die Scrumbags-Plattform wird mit Inhalten mehrerer Autoren gefüttert. Willst du auch ein Scrumbag sein? <a href="/contact/">Lass es uns wissen</a>!'
+widget1:
+  title: "YouTube"
+  url: ''
+  image: manifest-thumb.png # TODO
+#  text: ''
+widget2:
+  title: "Spotify"
+  url: 'https://open.spotify.com/show/557Kg8sGYRthZdgfmXpVQg?si=qN3n5FYxSpGoYyVD6zLXtg'
+  image: blog-thumb.png
+#  text: ''
+widget3:
+  title: "iTunes"
+  url: 'https://podcasts.apple.com/de/podcast/scrumbags/id1556203015'
+  image: autoren-thumb.png
+#  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,10 +32,10 @@ header:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-## callforaction:
-##  url: https://tinyletter.com/feeling-responsive
-##  text: Informiere mich über Updates ›
-##  style: alert
+callforaction:
+  url: /fragen/
+  text: Sende uns deine Fragen ›
+#  style: alert
 
 permalink: /index.html
 #
@@ -45,9 +45,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!--<div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div>-->
