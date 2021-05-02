@@ -9,7 +9,7 @@ header:
   image_fullwidth: "scrumbags-website-banner.png"
 widget1:
   title: "YouTube"
-  url: ''
+  url: 'https://www.youtube.com/channel/UCX8IDeRO8D0urJUckUSqObw'
   image: scrumbags-website-widget-youtube.png
 #  text: ''
 widget2:

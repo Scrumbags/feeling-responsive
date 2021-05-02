@@ -70,6 +70,10 @@
   # - title: "Archive"
   #   url: "/blog/archive/"
 
+#- title: Fragen einsenden
+#  url: "/fragen"
+#  side: left
+
 - title: Über uns
   url: "/about-us/"
   side: left
@@ -82,10 +86,6 @@
 #  url: "/search/"
 #  side: right
 
-- title: Fragen einsenden
-  url: "/fragen"
-  side: left
-
 - title: "Kontakt"
   url: "/contact/"
-  side: right
+  side: left

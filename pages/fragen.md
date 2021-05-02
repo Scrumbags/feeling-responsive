@@ -5,7 +5,7 @@ teaser: "Hier kannst du unseren Podcast füttern."
 meta_description:
 permalink: "fragen"
 header:
-   image_fullwidth: "scrumbags-website-contact.png"
+   image_fullwidth: "scrumbags-website-banner.png"
 ---
 
 Schicke deine Fragen, die du in unserem Podcast beantwortet haben möchtest oder einfach nur spanndend findest, an <a href="mailto:frage@scrumbags.de">frage@scrumbags.de</a>. Vielen Dank!

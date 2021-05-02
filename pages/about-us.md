@@ -5,7 +5,7 @@ teaser: "Finde heraus, wer wir sind."
 meta_description:
 permalink: "about-us"
 header:
-   image_fullwidth: "scrumbags-website-authors.png"
+   image_fullwidth: "scrumbags-website-banner.png"
 ---
 
 <style>
