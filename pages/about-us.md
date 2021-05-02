@@ -4,8 +4,8 @@ title: "Über uns"
 teaser: "Finde heraus, wer wir sind."
 meta_description:
 permalink: "about-us"
-#header:
-#   image_fullwidth: "scrumbags-website-authors.png"
+header:
+   image_fullwidth: "scrumbags-website-authors.png"
 ---
 
 <style>
