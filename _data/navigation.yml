@@ -1,10 +1,10 @@
-- title: Start
+- title: "⌂"
   url: ""
   side: left
 
-- title: Manifest
-  url: "/manifesto/"
-  side: left
+#- title: Manifest
+#  url: "/manifesto/"
+#  side: left
 
 #- title: Getting Started
 #  url: "/getting-started/"
@@ -63,9 +63,9 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
+#- title: Blog
+#  url: "/blog/"
+#  side: left
   # dropdown:
   # - title: "Archive"
   #   url: "/blog/archive/"
@@ -74,9 +74,9 @@
   url: "/about-us/"
   side: left
 
-- title: Vision
-  url: "/vision/"
-  side: left
+#- title: Vision
+#  url: "/vision/"
+#  side: left
 
 #- title: "Suche"
 #  url: "/search/"
