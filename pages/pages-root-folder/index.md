@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "scrumbags-logo-website.png"
+  image_fullwidth: "scrumbags-website-banner.png"
 widget1:
   title: "YouTube"
   url: ''
