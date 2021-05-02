@@ -78,9 +78,9 @@
   url: "/vision/"
   side: left
 
-- title: "Suche"
-  url: "/search/"
-  side: right
+#- title: "Suche"
+#  url: "/search/"
+#  side: right
 
 - title: Fragen einsenden
   url: "/fragen"
