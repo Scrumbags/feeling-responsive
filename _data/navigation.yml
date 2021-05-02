@@ -70,8 +70,8 @@
   # - title: "Archive"
   #   url: "/blog/archive/"
 
-- title: Autoren
-  url: "/authors/"
+- title: Über uns
+  url: "/about-us/"
   side: left
 
 - title: Vision
