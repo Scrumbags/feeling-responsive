@@ -7,21 +7,21 @@
 layout: frontpage
 header:
   image_fullwidth: "scrumbags-logo-website.png"
-widget1:
-  title: "Manifest"
-  url: '/manifesto/'
-  image: manifest-thumb.png
-  text: 'Wir wollen Wissen und Erfahrungen rund um Agile, Lean, Beta-Codex usw. mit euch teilen. Erfahre in unserem Manifest, wofür wir das hier machen und was dabei für uns zentral ist.'
-widget2:
-  title: "Blog"
-  url: '/blog/'
-  image: blog-thumb.png
-  text: 'Der Blog ist das Herz der Scrumbags. Klicke dich doch mal durch und schaue, was vielleicht nützlich für dich ist oder etwas in dir bewegt.'
-widget3:
-  title: "Autoren"
-  url: '/authors/'
-  image: autoren-thumb.png
-  text: 'Finde heraus, wer wir sind! Die Scrumbags-Plattform wird mit Inhalten mehrerer Autoren gefüttert. Willst du auch ein Scrumbag sein? <a href="/contact/">Lass es uns wissen</a>!'
+#widget1:
+#  title: "Manifest"
+#  url: '/manifesto/'
+#  image: manifest-thumb.png
+#  text: 'Wir wollen Wissen und Erfahrungen rund um Agile, Lean, Beta-Codex usw. mit euch teilen. Erfahre in unserem Manifest, wofür wir das hier machen und was dabei für uns zentral ist.'
+#widget2:
+#  title: "Blog"
+#  url: '/blog/'
+#  image: blog-thumb.png
+#  text: 'Der Blog ist das Herz der Scrumbags. Klicke dich doch mal durch und schaue, was vielleicht nützlich für dich ist oder etwas in dir bewegt.'
+#widget3:
+#  title: "Autoren"
+#  url: '/authors/'
+#  image: autoren-thumb.png
+#  text: 'Finde heraus, wer wir sind! Die Scrumbags-Plattform wird mit Inhalten mehrerer Autoren gefüttert. Willst du auch ein Scrumbag sein? <a href="/contact/">Lass es uns wissen</a>!'
 #
 # Use the call for action to show a button on the frontpage
 #
