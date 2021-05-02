@@ -10,17 +10,17 @@ header:
 widget1:
   title: "YouTube"
   url: ''
-  image: manifest-thumb.png # TODO
+  image: scrumbags-website-widget-youtube.png
 #  text: ''
 widget2:
   title: "Spotify"
   url: 'https://open.spotify.com/show/557Kg8sGYRthZdgfmXpVQg?si=qN3n5FYxSpGoYyVD6zLXtg'
-  image: blog-thumb.png
+  image: scrumbags-website-widget-spotify.png
 #  text: ''
 widget3:
   title: "iTunes"
   url: 'https://podcasts.apple.com/de/podcast/scrumbags/id1556203015'
-  image: autoren-thumb.png
+  image: scrumbags-website-widget-itunes.png
 #  text: ''
 #
 # Use the call for action to show a button on the frontpage
